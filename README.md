@@ -21,7 +21,6 @@ class AmanTrivedi:
     def __init__(self):
         self.name       = "Aman Trivedi"
         self.role       = "Data Scientist Intern"
-        self.company    = "Unified Mentor (June–Sept 2026)"
         self.education  = "B.Tech ECE — PSIT Kanpur | CGPA: 7.0"
         self.location   = "📍 Kanpur, Uttar Pradesh, India"
         self.email      = "aman055trivedi@gmail.com"
